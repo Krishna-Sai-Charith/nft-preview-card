@@ -1,0 +1,78 @@
+body{
+    background-color:  hsl(217, 54%, 11%);
+    margin: 0;
+}
+.card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.container{
+    margin-top: 200px;
+    height: 530px;
+    width: 315px;
+    background-color:#15273F;
+    border-radius: 11px;
+    color: white;
+    box-shadow: 1px 0px 12px 30px  #0C1729;
+    font-family: 'Outfit', sans-serif;
+}
+.equillibrium-image{
+    margin: 22.5px 15px 15px 22.5px;
+    height: 270px;
+    width: 270px;
+    border-radius: 9px;
+}
+.avatar-image{
+    height: 27px;
+    width: 27px;
+    margin-left: 22.5px;
+    border-radius: 50%;
+    border: 1px solid white;
+}
+.img-container{
+    display: flex;
+    align-items: center;
+    color: #7D93B5;
+    gap: 15px;
+    font-size: 14px;
+}
+.name{
+    color: white;
+}
+.eth{
+    color: #03FEFB;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    margin-left: 22.5px;
+    font-weight: bold;
+}
+.days{
+   color: #7F97B9;
+   display: flex;
+   align-items: center;
+   font-size: 14px;
+   margin-left: -22.5px;
+}
+.clock-eth{
+    display: flex;
+    gap: 130px;
+    margin-bottom: 20px;
+}
+h2{
+    margin-left: 22.5px;
+    font-size: 19px;
+}
+.para{
+    margin-left: 22.5px;
+    font-weight: 100;
+    color: #6D819D;
+}
+.span-eth{
+    margin-left: 5px;
+}
+.span-days{
+    margin-left: 5px;
+}
